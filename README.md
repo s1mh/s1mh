@@ -23,6 +23,8 @@ Eu sou estudante do 4º semestre de Tecnologia em Gestão da TI na Faculdade Imp
 
 Fora do trabalho, eu idealizo e construo produtos de ponta a ponta com IA: da ideia ao app publicado, passando por interface, banco de dados, segurança e testes. Uso várias ferramentas e prompts bem estruturados, e mantenho a visão técnica: sou eu quem decide o que o produto precisa garantir, como os dados são modelados e onde a segurança entra, e eu reviso o que a IA entrega em vez de aceitar tudo de primeira.
 
+Também crio sites e animações: páginas com movimento e personalidade, cada uma com a sua identidade.
+
 ### Projetos em destaque
 
 <table>
@@ -38,15 +40,26 @@ Fora do trabalho, eu idealizo e construo produtos de ponta a ponta com IA: da id
       App para dividir despesas em casal, na web e no iOS. Divisão flexível, cartões, parcelas, acerto de contas e Edge Functions com rate limit. <b>React, Vite, Supabase, Capacitor.</b>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/s1mh/openclaw-agent-workspace"><img src="https://raw.githubusercontent.com/s1mh/openclaw-agent-workspace/main/docs/assets/banner.png" alt="openclaw-agent-workspace"></a>
+      <h3><a href="https://github.com/s1mh/openclaw-agent-workspace">openclaw-agent-workspace</a></h3>
+      Uma equipe de 13 agentes de IA coordenada por um Builder, em uma VM isolada, com evidência primeiro e bloqueios sempre registrados. <b>OpenClaw, automação com agentes, segurança por agente.</b>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://samuelrocha-portfolio.vercel.app"><img src="assets/portfolio.png" alt="Portfólio de sites animados do Samuel Rocha"></a>
+      <h3><a href="https://samuelrocha-portfolio.vercel.app">Portfólio de sites animados</a></h3>
+      Sites e lojas de demonstração com movimento e personalidade, cada um com a sua identidade. <b>React, TypeScript, GSAP, Canvas, Tailwind.</b>
+    </td>
+  </tr>
 </table>
-
-**[Portfólio de sites animados](https://samuelrocha-portfolio.vercel.app).** Demonstrações de sites com movimento e personalidade, cada uma com a sua identidade.
 
 ### O que eu levo
 
 **Dados e análise:** SQL, Python (Pandas), Databricks, Looker, Grafana, QuickSight, Excel.
 **Produto e processos:** Jira, Confluence, Miro, Scrum e Kanban, mapeamento de processos, Lean Six Sigma (Green Belt, em certificação) e Product Management & Discovery (PM3, em andamento).
 **Construção com IA:** Next.js, React, TypeScript, Supabase e Postgres, Vercel e GitHub Actions, sempre com testes e atenção à segurança.
+**Sites e animações:** React, TypeScript, Vite, Tailwind CSS, GSAP, Canvas e SVG.
 **Idiomas:** português nativo, inglês B2, espanhol básico.
 
 ### Como eu trabalho com IA
@@ -69,17 +82,21 @@ I am a 4th-semester IT Management student at Faculdade Impacta, coming from fina
 
 Outside of work, I come up with and build products end to end with AI: from the idea to a published app, covering interface, database, security and tests. I use several tools and well-structured prompts, and I keep the technical view: I decide what the product must guarantee, how data is modeled and where security comes in, and I review what the AI delivers instead of accepting everything on the first try.
 
+I also build websites and animations: pages with motion and personality, each with its own identity.
+
 ### Featured projects
 
 - **[north.](https://github.com/s1mh/north)** A mobile-first financial education app. Manual portfolio, goals, a simulator and an assistant where the language model only explains, while rules and math live in tested code. *Next.js, TypeScript, Supabase, RLS with 252 database tests.*
 - **[Conta de Casal](https://github.com/s1mh/contacasal)** An app for splitting couple expenses, on web and iOS. Flexible splits, cards, installments, settling up and rate-limited Edge Functions. *React, Vite, Supabase, Capacitor.*
-- **[Animated website portfolio](https://samuelrocha-portfolio.vercel.app).** Demos of sites with motion and personality, each with its own identity.
+- **[openclaw-agent-workspace](https://github.com/s1mh/openclaw-agent-workspace)** A team of 13 AI agents coordinated by a Builder, in an isolated VM, evidence first and blockers always recorded. *OpenClaw, agent automation, per-agent security.*
+- **[Animated website portfolio](https://samuelrocha-portfolio.vercel.app)** Demo sites and stores with motion and personality, each with its own identity. *React, TypeScript, GSAP, Canvas, Tailwind.*
 
 ### What I bring
 
 **Data and analysis:** SQL, Python (Pandas), Databricks, Looker, Grafana, QuickSight, Excel.
 **Product and processes:** Jira, Confluence, Miro, Scrum and Kanban, process mapping, Lean Six Sigma (Green Belt, in certification) and Product Management & Discovery (PM3, in progress).
 **Building with AI:** Next.js, React, TypeScript, Supabase and Postgres, Vercel and GitHub Actions, always with tests and attention to security.
+**Websites and animation:** React, TypeScript, Vite, Tailwind CSS, GSAP, Canvas and SVG.
 **Languages:** native Portuguese, English B2, basic Spanish.
 
 ### How I work with AI
